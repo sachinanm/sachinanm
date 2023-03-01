@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **YouTube Analysis for ADS integration**
 
-- 🌱 I’m currently learning **Data Science ,Flask , Python , Docker, ETL Tools, Data Ware House , Trading Stock Market , Future and Option**
+- 🌱 I’m currently learning **Data Science ,Flask , Python , Docker, ETL Tools, AWS , Data Ware House , Trading Stock Market , Future and Option**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinanm](https://github.com/sachinanm)
 
