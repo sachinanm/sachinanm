@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Rana</h1>
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="center">
+  <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+</p>
 
 - 🔭 I’m currently working on **YouTube Analysis for ADS integration**
 
